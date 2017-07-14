@@ -1,4 +1,4 @@
-package jianguo.ds.se.hust.com.sudoku;
+package android.abandonrules.com.sudoku;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -19,9 +19,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import jianguo.ds.se.hust.com.sudoku.ui.GameFragment;
-import jianguo.ds.se.hust.com.sudoku.ui.SettingFragment;
-import jianguo.ds.se.hust.com.sudoku.util.LogUtil;
+import android.abandonrules.com.sudoku.ui.GameFragment;
+import android.abandonrules.com.sudoku.ui.SettingFragment;
+import android.abandonrules.com.sudoku.util.LogUtil;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener{
     private DrawerLayout mDrawerLayout;

@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     android:id="@+id/drawer"
-    tools:context="jianguo.ds.se.hust.com.sudoku.MainActivity">
+    tools:context="android.abandonrules.com.sudoku.MainActivity">
 
         <android.support.design.widget.CoordinatorLayout
             android:layout_width="match_parent"

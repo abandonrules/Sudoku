@@ -1,4 +1,4 @@
-package jianguo.ds.se.hust.com.sudoku.ui;
+package android.abandonrules.com.sudoku.ui;
 
 
 import android.animation.Animator;
@@ -28,12 +28,12 @@ import java.util.Stack;
 
 import io.codetail.animation.ViewAnimationUtils;
 import io.codetail.widget.RevealLinearLayout;
-import jianguo.ds.se.hust.com.sudoku.C;
-import jianguo.ds.se.hust.com.sudoku.R;
-import jianguo.ds.se.hust.com.sudoku.adapter.SudokuAdapter;
-import jianguo.ds.se.hust.com.sudoku.ds.SudokuCell;
-import jianguo.ds.se.hust.com.sudoku.ds.SudokuGenerator;
-import jianguo.ds.se.hust.com.sudoku.util.LogUtil;
+import android.abandonrules.com.sudoku.C;
+import android.abandonrules.com.sudoku.R;
+import android.abandonrules.com.sudoku.adapter.SudokuAdapter;
+import android.abandonrules.com.sudoku.ds.SudokuCell;
+import android.abandonrules.com.sudoku.ds.SudokuGenerator;
+import android.abandonrules.com.sudoku.util.LogUtil;
 
 
 /**

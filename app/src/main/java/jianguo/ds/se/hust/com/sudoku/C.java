@@ -1,4 +1,4 @@
-package jianguo.ds.se.hust.com.sudoku;
+package android.abandonrules.com.sudoku;
 
 /**
  * Created by JianGuo on 16/1/2.

@@ -1,4 +1,4 @@
-package jianguo.ds.se.hust.com.sudoku.ui;
+package android.abandonrules.com.sudoku.ui;
 
 
 /**

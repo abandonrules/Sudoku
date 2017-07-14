@@ -1,4 +1,4 @@
-package jianguo.ds.se.hust.com.sudoku;
+package android.abandonrules.com.sudoku;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

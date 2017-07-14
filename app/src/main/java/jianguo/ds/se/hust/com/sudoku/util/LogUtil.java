@@ -1,4 +1,4 @@
-package jianguo.ds.se.hust.com.sudoku.util;
+package android.abandonrules.com.sudoku.util;
 
 import android.util.Log;
 

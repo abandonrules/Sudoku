@@ -1,11 +1,10 @@
-package jianguo.ds.se.hust.com.sudoku.ds;
+package android.abandonrules.com.sudoku.ds;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 
-import jianguo.ds.se.hust.com.sudoku.C;
-import jianguo.ds.se.hust.com.sudoku.util.LogUtil;
-
+import android.abandonrules.com.sudoku.C;
+import android.abandonrules.com.sudoku.util.LogUtil;
 /**
  * Created by JianGuo on 16/1/1.
  * Wrapper class for SudokuField, for generating a complete sudoku by <em>size</em>

@@ -1,4 +1,4 @@
-package jianguo.ds.se.hust.com.sudoku.adapter;
+package android.abandonrules.com.sudoku.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,12 +9,12 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import jianguo.ds.se.hust.com.sudoku.C;
-import jianguo.ds.se.hust.com.sudoku.R;
-import jianguo.ds.se.hust.com.sudoku.ds.SudokuCell;
-import jianguo.ds.se.hust.com.sudoku.ds.SudokuGenerator;
-import jianguo.ds.se.hust.com.sudoku.ui.OnSudokuChangedListener;
-import jianguo.ds.se.hust.com.sudoku.util.LogUtil;
+import android.abandonrules.com.sudoku.C;
+import android.abandonrules.com.sudoku.R;
+import android.abandonrules.com.sudoku.ds.SudokuCell;
+import android.abandonrules.com.sudoku.ds.SudokuGenerator;
+import android.abandonrules.com.sudoku.ui.OnSudokuChangedListener;
+import android.abandonrules.com.sudoku.util.LogUtil;
 
 /**
  * Created by JianGuo on 16/1/2.

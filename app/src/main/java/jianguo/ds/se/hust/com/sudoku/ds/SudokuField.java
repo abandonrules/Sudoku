@@ -1,4 +1,4 @@
-package jianguo.ds.se.hust.com.sudoku.ds;
+package android.abandonrules.com.sudoku.ds;
 
 import java.io.Serializable;
 import java.util.Observable;

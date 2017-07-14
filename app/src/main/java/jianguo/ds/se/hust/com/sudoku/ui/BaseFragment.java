@@ -1,4 +1,4 @@
-package jianguo.ds.se.hust.com.sudoku.ui;
+package android.abandonrules.com.sudoku.ui;
 
 import android.content.Context;
 import android.net.Uri;
@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import jianguo.ds.se.hust.com.sudoku.R;
+import android.abandonrules.com.sudoku.R;
 
 
 public class BaseFragment extends Fragment {

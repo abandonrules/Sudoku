@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="jianguo.ds.se.hust.com.sudoku.ui.GameFragment">
+    tools:context="android.abandonrules.com.sudoku.ui.GameFragment">
 
     <io.codetail.widget.RevealLinearLayout
         android:id="@+id/frame"
